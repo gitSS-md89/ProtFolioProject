@@ -1,2 +1,2 @@
 # ProtFolioProject
-Creating a Simpl dummy Protfolio
+Creating a Simple dummy Protfolio
